@@ -1,0 +1,14 @@
+.pill {
+  padding: 10px 22px;
+  border-radius: 50px;
+  border: 1.5px solid #0d6efd;
+  color: #0d6efd;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.pill:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}

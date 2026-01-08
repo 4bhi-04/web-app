@@ -1,0 +1,25 @@
+<div class="container my-5">
+  <div class="d-flex justify-content-center flex-wrap gap-3">
+
+    <button class="pill" routerLink="/shop">
+      All products
+    </button>
+
+    <button class="pill" (click)="goToCategory('beauty')">
+      Beauty
+    </button>
+
+    <button class="pill" (click)="goToCategory('fragrances')">
+      Fragrances
+    </button>
+
+    <button class="pill" (click)="goToCategory('furniture')">
+      Furniture
+    </button>
+
+    <button class="pill" (click)="goToCategory('groceries')">
+      Groceries
+    </button>
+    
+  </div>
+</div>

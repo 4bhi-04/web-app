@@ -1,0 +1,9 @@
+#ab{
+  font-size: 120px;
+  font-weight: 900;
+  background: linear-gradient(135deg, #FFD700 0%, #FFED4E 25%, #C5A028 50%, #FFD700 75%, #FFED4E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+}

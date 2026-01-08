@@ -1,0 +1,28 @@
+#cat{
+    width: 854px;
+    height: 480x;
+}
+#cat2{
+    width: 854px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.cat3{
+    width: 400px;
+    height: 225px;
+    margin-top: 30px;
+}
+
+
+#img{
+    object-fit: cover;
+}
+
+#img1{
+    object-fit: cover;
+    width: 400px;
+    height: 225px;
+}
+
+
